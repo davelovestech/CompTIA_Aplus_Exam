@@ -76,6 +76,7 @@ while quizzing:
 			print "WRONG! The port number for " + random_key + " is " + str(random_key_item)
 			questions += 1
 			pass
+	print "============================================="
 score_percentage = score * 100 / questions
 print "You got " + str(score) + " questions correct out of " + str(questions) + " questions."		
 print "Your score is " + str(score_percentage) + " %."

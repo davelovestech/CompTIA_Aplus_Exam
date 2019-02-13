@@ -99,6 +99,7 @@ while generate == True:
 	else:
 		print "WRONG!"
 		number_of_questions += 1
+	print "================================"
 score_percentage = score * 100 / number_of_questions
 print "You got " + str(score) + " questions correct out of " + str(number_of_questions) + " questions."		
 print "Your score is " + str(score_percentage) + " %."
