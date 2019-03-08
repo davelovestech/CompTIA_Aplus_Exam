@@ -4,11 +4,11 @@
 questions = ["802.11a frequency (GHz)?", "802.11a speed/channel (Mbit/s)?", "802.11a channels?", "802.11a max throughput (Mbit/s)?", "802.11a max range (meters)?", "802.11b frequency (GHz)?", "802.11b speed/channel (Mbit/s)?", "802.11b channels?", "802.11b max throughput (Mbit/s)?", "802.11b max range (meters)?", "802.11g frequency (GHz)?", "802.11g speed/channel (Mbit/s)?", "802.11g channels?", "802.11g max throughput (Mbit/s)?", "802.11g max range (meters)?", "802.11n frequency (GHz)?", "802.11n speed/channel (Mbit/s)?", "802.11n channels?", "802.11n max throughput (Mbit/s)?", "802.11n max range (meters)?", "802.11ac frequency (GHz)?"	, "802.11ac speed/channel (Mbit/s)?", "802.11ac channels?", "802.11ac max throughput (Mbit/s)?", "802.11ac max range (meters)?"]
 
 correct_choices = ["5", "54", "1", "54", "120", "2.4", "11", "1", "11", "140", 
-"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4, "600", "250", "5, "866.7", 
+"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4", "600", "250", "5", "866.7", 
 "8", "6,934", "250"]
                    
 answers = ["5", "54", "1", "54", "120", "2.4", "11", "1", "11", "140", 
-"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4, "600", "250", "5, "866.7", 
+"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4", "600", "250", "5", "866.7", 
 "8", "6,934", "250"]
 
 
