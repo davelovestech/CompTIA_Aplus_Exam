@@ -53,4 +53,57 @@ if __name__ == "__main__":
 * windows commands
 * linux commands
 * locations of system files
+* picture identifying motherboard parts
+* picture identifying connectors 
+* CAT 5 cable questions
+* what utility does what?
+* RAM math
+* OSI layers
+* windows registry and contents
+* windows system utilities
+* windows minimum requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
