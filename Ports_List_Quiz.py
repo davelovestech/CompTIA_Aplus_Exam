@@ -1,15 +1,11 @@
 #!/usr/bin/env python
 # I didn't write this code. I'm just copying it.
 # the code is from https://codereview.stackexchange.com/questions/153495/simple-multiple-choice-quiz
-questions = ["802.11a frequency (GHz)?", "802.11a speed/channel (Mbit/s)?", "802.11a channels?", "802.11a max throughput (Mbit/s)?", "802.11a max range (meters)?", "802.11b frequency (GHz)?", "802.11b speed/channel (Mbit/s)?", "802.11b channels?", "802.11b max throughput (Mbit/s)?", "802.11b max range (meters)?", "802.11g frequency (GHz)?", "802.11g speed/channel (Mbit/s)?", "802.11g channels?", "802.11g max throughput (Mbit/s)?", "802.11g max range (meters)?", "802.11n frequency (GHz)?", "802.11n speed/channel (Mbit/s)?", "802.11n channels?", "802.11n max throughput (Mbit/s)?", "802.11n max range (meters)?", "802.11ac frequency (GHz)?"	, "802.11ac speed/channel (Mbit/s)?", "802.11ac channels?", "802.11ac max throughput (Mbit/s)?", "802.11ac max range (meters)?"]
+questions = ["FTP command port", "FTP data port", "SSH", "Telnet", "SMPT usual port is?", "SMTP is usually 25, what is the other?", "DNS", "DHCP destination is?", "DHCP client is?", "HTTP", "POP3", "IMAP", "SNMP", "LDAP", "SLP", "HTTPS", "SMB", "NetBIOS name service", "NetBIOS datagram service", "NetBIOS session service", "AFP can be 548 ... what is the other?", "AFP can be 427 ... what is the other?", "RDP"]
 
-correct_choices = ["5", "54", "1", "54", "120", "2.4", "11", "1", "11", "140", 
-"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4", "600", "250", "5", "866.7", 
-"8", "6,934", "250"]
+correct_choices = ["20", "21", "22", "23", "25", "587", "53", "67", "68", "80", "110", "143", "161", "389", "427", "443", "445", "137", "138", "139", "427", "548", "3389"]
                    
-answers = ["5", "54", "1", "54", "120", "2.4", "11", "1", "11", "140", 
-"2.4", "54", "1", "54", "140", "5 and 2.4", "150", "4", "600", "250", "5", "866.7", 
-"8", "6,934", "250"]
+answers = ["20", "21", "22", "23", "25", "587", "53", "67", "68", "80", "110", "143", "161", "389", "427", "443", "445", "137", "138", "139", "427", "548", "3389"]
 
 
 def quiz():
@@ -26,34 +22,3 @@ def quiz():
 
 if __name__ == "__main__":
     quiz()
-"""
-"802.11a frequency (GHz)?" 			"5" 
-"802.11a speed/channel (Mbit/s)?" 		"54" 
-"802.11a channels?"				"1"
-"802.11a max throughput (Mbit/s)?"		"54"
-"802.11a max range (meters)?"			"120"
-
-"802.11b frequency (GHz)?"			"2.4"
-"802.11b speed/channel (Mbit/s)?" 		"11"
-"802.11b channels?"		"1"
-"802.11b max throughput (Mbit/s)?"		"11"
-"802.11b max range (meters)?"			"140" 
-
-"802.11g frequency (GHz)?"			"2.4"
-"802.11g speed/channel (Mbit/s)?" 		"54"
-"802.11g channels?"				"1"
-"802.11g max throughput (Mbit/s)?"		"54" 
-"802.11g max range (meters)?"			"140" 
-
-"802.11n frequency (GHz)?"			"5 and 2.4"
-"802.11n speed/channel (Mbit/s)?" 		"150"
-"802.11n channels?"				"4"
-"802.11n max throughput (Mbit/s)?"		"600"
-"802.11n max range (meters)?"			"250"
-
-"802.11ac frequency (GHz)?"			"5"
-"802.11ac speed/channel (Mbit/s)?" 		"866.7"
-"802.11ac channels?"				"8"
-"802.11ac max throughput (Mbit/s)?"		"6,934"
-"802.11ac max range (meters)?"			"250" 
-"""
