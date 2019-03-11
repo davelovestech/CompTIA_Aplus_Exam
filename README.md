@@ -43,35 +43,56 @@ if __name__ == "__main__":
 ### IP Address Quiz
 * Generate_IP_Address.py was an early iteration that only makes simple IP addresses (no private vs public addresses). It does not ask questions. 
 * IP_Address_Quiz.py generates IP addresses and asks what kind they are. I need to add private and subnet masks to this ... it also tells you when you're wrong, BUT not what the right answer is :(
-### 
 
-### Code I Need to Write
-* laser printer steps
-* malware steps
-* troubleshooting steps
-* device manager symbols
-* windows commands
-* linux commands
-* locations of system files
-* picture identifying motherboard parts
-* picture identifying connectors 
-* CAT 5 cable questions
-* what utility does what?
+
+
+### Updates I Plan to Make
+* Steps_and_Layers.py
+	* laser printer steps
+	* malware steps
+	* troubleshooting steps
+	* OSI Layers
+
+* Identify_Connectors.py
+	* picture identifying motherboard parts
+	* picture identifying connectors 
+	* locations of system files
+
+
+* Windows_Commands_Utilities.py
+	* device manager symbols
+	* windows commands
+	* what utility does what?
+	* windows registry and contents
+	* windows minimum requirements
+	* shadow copy volume snapshot service volume shadow copy service
+	* virtualization tech vs. no execute tech
+	* NX bit for intel is XD bit no execute
+	* virtualizaiton for intel is VT-x. amd-v is amd.
+
+
+* linux commands.py
+	* virtualization tech vs. no execute tech
+	* NX bit for intel is XD bit no execute
+	* virtualizaiton for intel is VT-x. amd-v is amd.
+
+
+* Interface_List_Quiz.py
+	* CAT 5 cable questions
+
 * RAM math
-* OSI layers
-* windows registry and contents
-* windows system utilities
-* windows minimum requirements
-* private vs public IP addresses. How many hosts vs machine IPs can this address have?
-* what wireless security type is this?
-* port triggering vs port forwarding
-* virtualization tech vs. no execute tech
+	* reverse and forward math
 
 
-shadow copy volume snapshot service volume shadow copy service
-NX bit for intel is XD bit no execute
+* WIFI_Channel_List_Quiz.py
+	* private vs public IP addresses. How many hosts vs machine IPs can this address have?
+	* what wireless security type is this?
 
-virtualizaiton for intel is VT-x. amd-v is amd.
+
+
+
+
+
 
 
 
