@@ -62,9 +62,16 @@ if __name__ == "__main__":
 * windows registry and contents
 * windows system utilities
 * windows minimum requirements
+* private vs public IP addresses. How many hosts vs machine IPs can this address have?
+* what wireless security type is this?
+* port triggering vs port forwarding
+* virtualization tech vs. no execute tech
 
 
+shadow copy volume snapshot service volume shadow copy service
+NX bit for intel is XD bit no execute
 
+virtualizaiton for intel is VT-x. amd-v is amd.
 
 
 
