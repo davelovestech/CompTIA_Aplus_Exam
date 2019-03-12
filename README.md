@@ -75,9 +75,6 @@ if __name__ == "__main__":
 * Interface_List_Quiz.py
 	* CAT 5 cable questions
 
-* RAM math
-	* reverse and forward math
-
 * WIFI_Channel_List_Quiz.py
 	* private vs public IP addresses. How many hosts vs machine IPs can this address have?
 	* what wireless security type is this?
