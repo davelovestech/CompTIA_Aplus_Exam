@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 print "Welcome to the CompTIA A+ Port Number Quiz!"
 

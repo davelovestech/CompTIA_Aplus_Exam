@@ -46,7 +46,9 @@ if __name__ == "__main__":
 
 
 
-### Updates I Plan to Make
+### Updates I'd Like to Make
+
+##### Things to Add
 * Steps_and_Layers.py
 	* laser printer steps
 	* malware steps
@@ -55,35 +57,36 @@ if __name__ == "__main__":
 
 * Windows_Commands_Utilities.py
 	* device manager symbols
-	* windows commands
-	* what utility does what?
-	* windows registry and contents
 	* windows minimum requirements
 	* shadow copy volume snapshot service volume shadow copy service
-	* virtualization tech vs. no execute tech
-	* NX bit for intel is XD bit no execute
-	* virtualizaiton for intel is VT-x. amd-v is amd.
 	* locations of system files
 
 
 * linux commands.py
-	* virtualization tech vs. no execute tech
-	* NX bit for intel is XD bit no execute
-	* virtualizaiton for intel is VT-x. amd-v is amd.
+
 
 
 * Interface_List_Quiz.py
 	* CAT 5 cable questions
 
-* WIFI_Channel_List_Quiz.py
+
+
+* IP_Address_Quiz.py
 	* private vs public IP addresses. How many hosts vs machine IPs can this address have?
+
+
+
+
+
+
+* WIFI_Channel_List_Quiz.py
 	* what wireless security type is this?
 
 
 
-
-
-
+	* virtualization tech vs. no execute tech
+	* NX bit for intel is XD bit no execute
+	* virtualizaiton for intel is VT-x. amd-v is amd.
 
 
 
