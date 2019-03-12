@@ -53,12 +53,6 @@ if __name__ == "__main__":
 	* troubleshooting steps
 	* OSI Layers
 
-* Identify_Connectors.py
-	* picture identifying motherboard parts
-	* picture identifying connectors 
-	* locations of system files
-
-
 * Windows_Commands_Utilities.py
 	* device manager symbols
 	* windows commands
@@ -69,6 +63,7 @@ if __name__ == "__main__":
 	* virtualization tech vs. no execute tech
 	* NX bit for intel is XD bit no execute
 	* virtualizaiton for intel is VT-x. amd-v is amd.
+	* locations of system files
 
 
 * linux commands.py
@@ -82,7 +77,6 @@ if __name__ == "__main__":
 
 * RAM math
 	* reverse and forward math
-
 
 * WIFI_Channel_List_Quiz.py
 	* private vs public IP addresses. How many hosts vs machine IPs can this address have?

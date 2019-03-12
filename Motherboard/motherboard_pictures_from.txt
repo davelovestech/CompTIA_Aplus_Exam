@@ -1,0 +1,108 @@
+################### MOTHERBOARD ANSWERS ###################################
+
+passCompTIA_motherboard
+	http://passcomptia.com/comptia-a-220-901/comptia-a-simulation-3/
+* A Memory Module Connectors
+* B Main Power Connector
+* C Floppy Drive Connector
+* D PCI Express x16 card connector
+* E IDE Drive Connector
+* F Front Panel I/O Connector
+* G SATA Connector
+* H CMOS Battery
+* I PCI Card Connector
+* J PCI Express x4 Connector
+* K PCI Express x1 Connector
+* L CPU Fan Connector
+* M CPU Socket
+* N USB Connector
+* O Processor Power Connector
+
+build_your_own_computer_motherboard
+	https://www.build-your-own-computer.net/motherboard-diagram.html
+* A PCI Slot
+* B PCI-E 16x Slot
+* C PCI-E 1x Slot
+* D Northbridge
+* E ATX 12V 2X and 4 Pin Power Connection
+* F CPU Fan
+* G Socket
+* H Memory Slots
+* I ATX Power Connector
+* J IDE Connection
+* K Southbridge
+* L SATA Connections
+* M Front Panel Connections
+* N FDD Connection
+* O External USB Connectors
+* P CMOS Battery
+
+toms_hardware_motherboard
+	https://www.tomshardware.com/reviews/motherboard-parts-explained,5669.html
+* 1 CPU Socket
+* 2 Chipset
+* 3 DIMM/RAM slots
+* 4 PCIe x16 slot
+* 5 PCI x1 slot
+* 6 M.2 connector
+* 7 SATA Ports
+* 8 Front Panel Connectors
+* 9 USB 2. header
+* 10 USB 3.1 Gen1 header
+* 11 USB 3.1 Gen2 header
+* 12 ATX power connector
+* 13 CPU Power Connector
+* 14 BIOS Chips
+* 15 CMOS Battery
+* 16 Fan Headers
+* 17 Front panel header
+* 18 VRM Heatsink
+* 19 COM/Serial header
+* 20 TPM Header
+* 21 RGB header
+
+toms_hardware_rear_ports
+	https://www.tomshardware.com/reviews/motherboard-parts-explained,5669.html
+* 22 PS/2 Keyboard/Mouse port
+* 23 USB 3.0/3.1 Gen1 ports
+* 24 Displayport
+* 25 HDMI port
+* 26 USB Type-C
+* 27 USB 3.1 Gen2
+* 28 Ethernet Port
+* 29 orange center subwoofer out
+* 29 blue line in
+* 29 black rear speaker out
+* 29 green line out 
+* 29 gray door S/PDIF Out
+* 29 pink mic in
+
+bjorn32_rear_ports
+* 1 PS/2 Mouse Port
+* 2 PS/2 Keyboard Port
+* 3 Coaxial SPDIF
+* 4 SPDIF output
+* 5 eSATA
+* 6 USB 2.0 ports
+* 7 1394a Firewire Port
+* 8 blue line in
+* 8 green line out
+* 8 pink mic in
+* 8 orange center subwoofer
+* 8 black rear speaker out
+* 8 grey side speaker out
+* 9 LAN Port
+
+support_hp_rear_ports.jpg
+	https://support.hp.com/us-en/document/c02560084
+* 1 S/PDIF Output
+* 2 VGA Port
+* 3 USB 2.0 Port
+* 4 RJ45 10/100 Mb/s LAN
+* 5 Center Subwoofer Out
+* 6 Rear Speaker Out
+* 7 Line In
+* 8 Line Out
+* 9 Mic In
+* 10 Side Speaker Out
+* 11 DVI-D Port
