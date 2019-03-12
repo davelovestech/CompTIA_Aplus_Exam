@@ -23,6 +23,7 @@ def quiz_me(dictionary):
 
 # toms_hardware_motherboard
 # https://www.tomshardware.com/reviews/motherboard-parts-explained,5669.html
+"""
 toms_hardware_motherboard = subprocess.Popen(["display", "./Motherboard/toms_hardware_motherboard.jpeg"])
 
 toms_hardware_motherboard_dictionary = {
@@ -52,7 +53,7 @@ print "toms_hardware_motherboard_dictionary"
 quiz_me(toms_hardware_motherboard_dictionary)
 #print toms_hardware_motherboard_dictionary
 toms_hardware_motherboard.kill()
-
+"""
 # build_your_own_computer_motherboard
 # https://www.build-your-own-computer.net/motherboard-diagram.html
 build_your_own_computer_motherboard = subprocess.Popen(["display", "./Motherboard/build_your_own_computer_motherboard.jpg"])

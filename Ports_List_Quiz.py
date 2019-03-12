@@ -12,7 +12,7 @@ def quiz():
     score = 0
     for question, correct_choice, answer in zip(questions, correct_choices, answers):
         print(question)
-        user_answer = str(input())
+        user_answer = raw_input()
         if user_answer == correct_choice:
             print("Correct")
             score += 1
