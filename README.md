@@ -47,23 +47,8 @@ if __name__ == "__main__":
 
 
 ### Updates I'd Like to Make
-
-##### Things to Add
-* Steps_and_Layers.py
-	* laser printer steps
-	* malware steps
-	* troubleshooting steps
-	* OSI Layers
-
-
 * Windows_Commands_Utilities.py
 	* windows minimum requirements
-	* build lists
-* linux commands.py
-	* build lists
-
-
-
 * WIFI_Channel_List_Quiz.py
 	* what wireless security type is this?
 * Interface_List_Quiz.py
