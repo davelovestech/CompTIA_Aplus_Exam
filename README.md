@@ -7,6 +7,22 @@ stackoverflow says dictionary keys can be as long as the memory can support! bot
 
 * Ports_Dictionary_Print.py IS NOT a quiz ... I need to fix this. It was an early iteration that just lists the dictionary and keys of the port dictionary. 
 
+All of the dictionary quizes have this basic structure:
+```python
+dictionary_is = {
+	"dictionary": "components"
+}
+def quiz_me(dictionary):
+	# print dictionary
+	for question in dictionary:
+		print "What is label " + question + "?"
+		response = str(raw_input())
+		if response == dictionary[question]:
+			print "Correct!"
+		else:
+			print "WRONG. The answer is: " + dictionary[question]
+		print "-------------------------------------------------------"
+```
 ### List-Based Quizes
 The issue with all of these is program failure when unexpected input is entered. They tell you the right answer when you're wrong, but it's in order ... that doesn't force the kind of learning I want for the exams ... I'll need to build these out w/ randomness ... How?
 * Interface_List_Quiz.py is a list quiz that asks interface types, speeds and max distance questions in order. It tells you the right answer when you're wrong.
@@ -44,6 +60,19 @@ if __name__ == "__main__":
 * Generate_IP_Address.py was an early iteration that only makes simple IP addresses (no private vs public addresses). It does not ask questions. 
 * IP_Address_Quiz.py generates IP addresses and asks what kind they are. I need to add private and subnet masks to this ... it also tells you when you're wrong, BUT not what the right answer is :(
 
+The IP Addresses are generated with random numbers. Here is how private class A is made:
+
+```python
+# private class a
+# 10.0.0.0 - 10.255.255.255
+def generate_private_class_A():
+	#print "Class A IP Address:"
+	byte_one = 10
+	byte_two = random.randint(0,255)
+	byte_three = random.randint(0,255)
+	byte_four = random.randint(0,255)
+	return build_IP_address(byte_one, byte_two, byte_three, byte_four)
+```
 
 
 ### Updates I'd Like to Make
