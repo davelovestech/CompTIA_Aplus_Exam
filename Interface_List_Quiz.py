@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # I didn't write this code. I'm just copying it.
 # the code is from https://codereview.stackexchange.com/questions/153495/simple-multiple-choice-quiz
 

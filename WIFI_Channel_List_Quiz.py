@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # I didn't write this code. I'm just copying it.
 # the code is from https://codereview.stackexchange.com/questions/153495/simple-multiple-choice-quiz
 questions = ["802.11a frequency (GHz)?", "802.11a speed/channel (Mbit/s)?", "802.11a channels?", "802.11a max throughput (Mbit/s)?", "802.11a max range (meters)?", "802.11b frequency (GHz)?", "802.11b speed/channel (Mbit/s)?", "802.11b channels?", "802.11b max throughput (Mbit/s)?", "802.11b max range (meters)?", "802.11g frequency (GHz)?", "802.11g speed/channel (Mbit/s)?", "802.11g channels?", "802.11g max throughput (Mbit/s)?", "802.11g max range (meters)?", "802.11n frequency (GHz)?", "802.11n speed/channel (Mbit/s)?", "802.11n channels?", "802.11n max throughput (Mbit/s)?", "802.11n max range (meters)?", "802.11ac frequency (GHz)?", "802.11ac speed/channel (Mbit/s)?", "802.11ac channels?", "802.11ac max throughput (Mbit/s)?", "802.11ac max range (meters)?"]
@@ -16,7 +16,6 @@ def quiz():
     score = 0
     for question, correct_choice, answer in zip(questions, correct_choices, answers):
         print(question)
-        #user_answer = str(input())
 	user_answer = raw_input()
         if user_answer == correct_choice:
             print("Correct")

@@ -13,7 +13,7 @@ steps_and_layers_dict = {
 	"Build the page in memory": "Laser Printing Step 1: Processing",
 	"Prepare the Drum with a negative electrostatic charge": "Laser Printing Step 2: Charging",
 	"Write the image with the laser": "Laser Printing Step 3: Exposing",
-	"Add toner to the charged areas of the drum": "Laser Printing Step 4: Devloping",
+	"Add toner to the charged areas of the drum": "Laser Printing Step 4: Developing",
 	"Move the toner from the drum to the paper": "Laser Printing Step 5: Transferring",
 	"The toner is fused to the paper": "Laser Printing Step 6: Fusing",
 	"A rubber blade removes excess toner": "Laser Printing Step 7: Cleaning",

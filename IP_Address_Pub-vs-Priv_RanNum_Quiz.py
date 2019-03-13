@@ -169,7 +169,6 @@ while generate == True:
 		subnet_mask = "255.255.0.0"	
 
 	####### QUESTIONS #############
-	print "================================"
 	answer = raw_input("What is the IP Address type?\n")
 	if answer == IP_Address_Type:
 		print "Correct! IP Address type was: " + IP_Address_Type
