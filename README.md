@@ -55,38 +55,19 @@ if __name__ == "__main__":
 	* troubleshooting steps
 	* OSI Layers
 
+
 * Windows_Commands_Utilities.py
-	* device manager symbols
 	* windows minimum requirements
-	* shadow copy volume snapshot service volume shadow copy service
-	* locations of system files
-
-
+	* build lists
 * linux commands.py
-
-
-
-* Interface_List_Quiz.py
-	* CAT 5 cable questions
-
-
-
-* IP_Address_Quiz.py
-	* private vs public IP addresses. How many hosts vs machine IPs can this address have?
-
-
-
+	* build lists
 
 
 
 * WIFI_Channel_List_Quiz.py
 	* what wireless security type is this?
-
-
-
-	* virtualization tech vs. no execute tech
-	* NX bit for intel is XD bit no execute
-	* virtualizaiton for intel is VT-x. amd-v is amd.
+* Interface_List_Quiz.py
+	* CAT 5 cable questions
 
 
 

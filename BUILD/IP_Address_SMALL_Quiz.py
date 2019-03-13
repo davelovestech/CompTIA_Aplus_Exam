@@ -91,13 +91,13 @@ while generate == True:
 		
 	answer = raw_input("Enter 'A', 'B', 'C', or 'APIPA'\n")
 	if answer == IP_Address_Type:
-		print "Correct!"
+		print "Correct! It was " + IP_Address_Type
 		score += 1
 		number_of_questions += 1	
 	elif answer == "QUIT":
 		generate = False
 	else:
-		print "WRONG!"
+		print "WRONG! It was " + IP_Address_Type
 		number_of_questions += 1
 	print "================================"
 score_percentage = score * 100 / number_of_questions

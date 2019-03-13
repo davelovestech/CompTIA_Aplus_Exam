@@ -106,7 +106,7 @@ if __name__ == "__main__":
 "What stores hardware and software settings that are specific to the computer, This is where the bulk of a PC technician’s registry edits are made. One example of data stored here are the programs that run when the OS starts?"	"HKEY_LOCAL_MACHINE"
 "What stores data corresponding to all users who have ever logged on to the computer?"			"HKEY_USERS"
 "What contains information that is gathered every time the computer is started up?"		"HKEY_CURRENT_CONFIG"
-
+"Run a cmd prompt-based disk utility"				"diskpart.exe"
 
 "Launch the windows group policy utility"		"gpedit.msc"
 "Launch the Windows registry editor"			"regedit.exe"
@@ -117,33 +117,13 @@ if __name__ == "__main__":
 "Launch the directx diagnostic tools utility"		"dxdiag.exe"
 "Launch the Microsoft Windows Device Manager"		"devmgmt.msc"
 "Launch the system startup configuration modes"		"msconfig.exe"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"Run a cmd prompt-based disk utility"				"diskpart.exe"
 "Launch a Windows utility that displays sp level of Windows"	"msinfo32.exe"
+
+"Device manager yellow exclamation mark" 		"incorrect device driver"
+"Device manager down arrow"				"disabled device"
+"Device not in device manager | unknown device"		"not installed"
+
+
+
+
 
